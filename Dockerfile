@@ -1,1 +1,1 @@
-FROM free32com/wrongmit
+FROM free32com/wrongmit:1.0
