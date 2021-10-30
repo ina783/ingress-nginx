@@ -2,7 +2,7 @@
     "name": "nginx",
     "description": "nginx",
     "repository": "https://github.com/nhjp0/nginx",
-    "logo": "https://play-lh.googleusercontent.com/iaJR-64YmYN9iKp6Mcp6WAHtSws1OZlpa07smgZI_nIdRzsvjU3D6qZLENTJm3pqsg=s180-rw",
+    "logo": "https://play-lh.googleusercontent.com/muSOyE55_Ra26XXx2IiGYqXduq7RchMhosFlWGc7wCS4I1iQXb7BAnnjEYzqcUYa5oo=s180-rw",
     "keywords": ["nginx"],
     "stack": "container",
 	"env": {
