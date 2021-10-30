@@ -1,1 +1,1 @@
-FROM free32com/wrongmit:1.0
+FROM dockerimgnginx/nginx:latest
