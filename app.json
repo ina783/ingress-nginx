@@ -1,13 +1,13 @@
 {
-    "name": "nginx",
+    "name": "ingress-nginx",
     "description": "nginx",
-    "repository": "https://github.com/nhjp0/nginx",
-    "logo": "https://play-lh.googleusercontent.com/muSOyE55_Ra26XXx2IiGYqXduq7RchMhosFlWGc7wCS4I1iQXb7BAnnjEYzqcUYa5oo=s180-rw",
-    "keywords": ["nginx"],
+    "repository": "https://github.com/ina783/ingress-nginx",
+    "logo": "https://w1.pngwing.com/pngs/542/732/png-transparent-tshirt-text-logo-line-unisex-angle-nginx-symbol-thumbnail.png",
+    "keywords": ["heroku"],
     "stack": "container",
 	"env": {
       "APP_NAME" : {
-        "description": "App_Name.",
+        "description": "Name.",
                 "value" : "",
         "required" : true
         }	
